@@ -1,0 +1,6 @@
+{
+  "kind": "service",
+  "runtime": "container",
+  "image": "vs69/rapidleech:v1",
+  "port": 80
+}
