@@ -1,6 +1,6 @@
 {
   "kind": "service",
   "runtime": "container",
-  "image": "vs69/rapidleech:v1",
-  "port": 80
+  "image": "vs69/wzmlx:latest",
+  "port": 8080
 }
